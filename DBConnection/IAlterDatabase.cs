@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace DBConnection
 {
     interface IAlterDatabase
-    {
+    {//adding comment 
         void SaveDatabaseTable(string connectionString, DataTable dataTable);
         void CreateDatabase(string connectionString);
         void CreateDatabaseTable(string connectionString,
