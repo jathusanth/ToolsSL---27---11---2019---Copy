@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolsSL", "ToolsSL\ToolsSL.csproj", "{1E8A43D2-0E3D-42DF-893B-05DF5AB2ADEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_Controller", "VRController\VR_Controller.csproj", "{C1F7535E-91F0-4EFE-8497-AB8233506632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBConnection", "DBConnection\DBConnection.csproj", "{3F98DF3C-359B-45A3-869E-9B35DE79AB43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E8A43D2-0E3D-42DF-893B-05DF5AB2ADEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8A43D2-0E3D-42DF-893B-05DF5AB2ADEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8A43D2-0E3D-42DF-893B-05DF5AB2ADEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8A43D2-0E3D-42DF-893B-05DF5AB2ADEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F7535E-91F0-4EFE-8497-AB8233506632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F7535E-91F0-4EFE-8497-AB8233506632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F7535E-91F0-4EFE-8497-AB8233506632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F7535E-91F0-4EFE-8497-AB8233506632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F98DF3C-359B-45A3-869E-9B35DE79AB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F98DF3C-359B-45A3-869E-9B35DE79AB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F98DF3C-359B-45A3-869E-9B35DE79AB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F98DF3C-359B-45A3-869E-9B35DE79AB43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AEC220C-1D99-4416-85E0-BC23EA388FAD}
+	EndGlobalSection
+EndGlobal
